@@ -1,8 +1,8 @@
 <?php
-$hostname = "geogws003.ad.umd.edu";
-$username = "hbadam";
-$pwd = "user2#db";
-$dbname = "hbadam";
+$hostname = "*********";
+$username = "********";
+$pwd = "*****";
+$dbname = "*****";
 
 //To open connection to database on server
 $con = mysqli_connect($hostname, $username, $pwd, $dbname);
