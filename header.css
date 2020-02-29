@@ -1,0 +1,25 @@
+#content{
+    background-color:  rgb(93, 230, 235);
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: brown;
+    padding: 10px 0px 10px 0px;
+}
+#myNavbar a{
+    color: brown;
+}
+
+#myNavbar a:hover:active{
+    background-color: goldenrod;
+    color: black;
+}
+
+#image{
+    width: 50px;
+    float: left;
+}
+
+
+
